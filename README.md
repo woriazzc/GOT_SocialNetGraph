@@ -324,4 +324,4 @@ clique_size为4时，该网络中共找到8个社区，通过不同颜色的节�
 
 参考 https://blog.csdn.net/weixin_44324814/article/details/108100159#comments_14355253。
 
-![image-20201226182144081](https://i.loli.net/2020/12/26/HtM4XsbowpJaU7V.png)
+![avatar](https://github.com/woriazzc/GOT_SocialNetGraph/blob/main/GOT.png)
