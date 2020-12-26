@@ -279,7 +279,7 @@ open localhost:8888
 
 * 计算节点PageRank值
 
-    | Character   | Value  | 
+    | Character   | Value  |
     |------------|-----------|
     |Tyrion|0.055447591710774874|
     |Jon|0.044848169497765177|
@@ -317,4 +317,11 @@ clique_size为4时，该网络中共找到8个社区，通过不同颜色的节�
 * 查询最短路径
 
  ![avatar](https://github.com/Kitiro/SocialNetGraphDemo/blob/master/img/shortest_path.png)
-# GOT_SocialNetGraph
+
+# NetworkX+Gephi可视化
+
+将以上部分社区发现得到的数据结果接入可视化工具Gephi中。
+
+参考 https://blog.csdn.net/weixin_44324814/article/details/108100159#comments_14355253。
+
+![image-20201226182144081](https://i.loli.net/2020/12/26/HtM4XsbowpJaU7V.png)

@@ -1,0 +1,1010 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-12-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="community" type="long" />
+      <attribute id="1" title="betweenness" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Aemon" label="Aemon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.004622508177397137" />
+        </attvalues>
+      </node>
+      <node id="Grenn" label="Grenn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="5.989817310572027e-05" />
+        </attvalues>
+      </node>
+      <node id="Samwell" label="Samwell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.03227262859511145" />
+        </attvalues>
+      </node>
+      <node id="Aerys" label="Aerys">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Jaime" label="Jaime">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.09994344156136246" />
+        </attvalues>
+      </node>
+      <node id="Robert" label="Robert">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.2094523840293194" />
+        </attvalues>
+      </node>
+      <node id="Tyrion" label="Tyrion">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.19791284320277353" />
+        </attvalues>
+      </node>
+      <node id="Tywin" label="Tywin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.06553840423231058" />
+        </attvalues>
+      </node>
+      <node id="Alliser" label="Alliser">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Mance" label="Mance">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.007275961371756524" />
+        </attvalues>
+      </node>
+      <node id="Amory" label="Amory">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Oberyn" label="Oberyn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.01958014232946847" />
+        </attvalues>
+      </node>
+      <node id="Arya" label="Arya">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.07960711308183888" />
+        </attvalues>
+      </node>
+      <node id="Anguy" label="Anguy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Beric" label="Beric">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0006091214266627511" />
+        </attvalues>
+      </node>
+      <node id="Bran" label="Bran">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0.06301659941786954" />
+        </attvalues>
+      </node>
+      <node id="Brynden" label="Brynden">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004727134574764742" />
+        </attvalues>
+      </node>
+      <node id="Cersei" label="Cersei">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.02674643287824232" />
+        </attvalues>
+      </node>
+      <node id="Gendry" label="Gendry">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Gregor" label="Gregor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.005879915417737236" />
+        </attvalues>
+      </node>
+      <node id="Joffrey" label="Joffrey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.025434099443917696" />
+        </attvalues>
+      </node>
+      <node id="Jon" label="Jon">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.22996466368473173" />
+        </attvalues>
+      </node>
+      <node id="Rickon" label="Rickon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0007626320968639029" />
+        </attvalues>
+      </node>
+      <node id="Roose" label="Roose">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0002629599012559427" />
+        </attvalues>
+      </node>
+      <node id="Sandor" label="Sandor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.014162278987154626" />
+        </attvalues>
+      </node>
+      <node id="Thoros" label="Thoros">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0019261823273239152" />
+        </attvalues>
+      </node>
+      <node id="Balon" label="Balon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0006281164805527878" />
+        </attvalues>
+      </node>
+      <node id="Loras" label="Loras">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.003780752291533962" />
+        </attvalues>
+      </node>
+      <node id="Belwas" label="Belwas">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.018867924528301886" />
+        </attvalues>
+      </node>
+      <node id="Barristan" label="Barristan">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.04011407489067884" />
+        </attvalues>
+      </node>
+      <node id="Illyrio" label="Illyrio">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Hodor" label="Hodor">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0021937273446681065" />
+        </attvalues>
+      </node>
+      <node id="Jojen" label="Jojen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0004064518889316733" />
+        </attvalues>
+      </node>
+      <node id="Luwin" label="Luwin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Meera" label="Meera">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0019922569692430686" />
+        </attvalues>
+      </node>
+      <node id="Nan" label="Nan">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Theon" label="Theon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00047177590304274953" />
+        </attvalues>
+      </node>
+      <node id="Brienne" label="Brienne">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0015376001520469229" />
+        </attvalues>
+      </node>
+      <node id="Bronn" label="Bronn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00010482180293501046" />
+        </attvalues>
+      </node>
+      <node id="Podrick" label="Podrick">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0008358985235471674" />
+        </attvalues>
+      </node>
+      <node id="Lothar" label="Lothar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0006600525898733143" />
+        </attvalues>
+      </node>
+      <node id="Walder" label="Walder">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0032731813973401044" />
+        </attvalues>
+      </node>
+      <node id="Catelyn" label="Catelyn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.04890588265764755" />
+        </attvalues>
+      </node>
+      <node id="Edmure" label="Edmure">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0063172332740347534" />
+        </attvalues>
+      </node>
+      <node id="Hoster" label="Hoster">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0002426336765959408" />
+        </attvalues>
+      </node>
+      <node id="Jeyne" label="Jeyne">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Lysa" label="Lysa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.015215156305177053" />
+        </attvalues>
+      </node>
+      <node id="Petyr" label="Petyr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0011502139845250673" />
+        </attvalues>
+      </node>
+      <node id="Robb" label="Robb">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.1269644713830151" />
+        </attvalues>
+      </node>
+      <node id="Roslin" label="Roslin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6.751960581039384e-05" />
+        </attvalues>
+      </node>
+      <node id="Sansa" label="Sansa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.12672031668498004" />
+        </attvalues>
+      </node>
+      <node id="Stannis" label="Stannis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.1026998617273264" />
+        </attvalues>
+      </node>
+      <node id="Elia" label="Elia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.002996853410630337" />
+        </attvalues>
+      </node>
+      <node id="Ilyn" label="Ilyn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Meryn" label="Meryn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.00025900705642512993" />
+        </attvalues>
+      </node>
+      <node id="Pycelle" label="Pycelle">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Shae" label="Shae">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0012523948930099663" />
+        </attvalues>
+      </node>
+      <node id="Varys" label="Varys">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0009094137867722772" />
+        </attvalues>
+      </node>
+      <node id="Craster" label="Craster">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.018867924528301886" />
+        </attvalues>
+      </node>
+      <node id="Karl" label="Karl">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Daario" label="Daario">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5.989817310572027e-05" />
+        </attvalues>
+      </node>
+      <node id="Drogo" label="Drogo">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5.989817310572027e-05" />
+        </attvalues>
+      </node>
+      <node id="Irri" label="Irri">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.00017969451931716083" />
+        </attvalues>
+      </node>
+      <node id="Daenerys" label="Daenerys">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.15720345212054956" />
+        </attvalues>
+      </node>
+      <node id="Aegon" label="Aegon">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Jorah" label="Jorah">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.002329891127259132" />
+        </attvalues>
+      </node>
+      <node id="Kraznys" label="Kraznys">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Missandei" label="Missandei">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Rakharo" label="Rakharo">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Rhaegar" label="Rhaegar">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.007312671807481101" />
+        </attvalues>
+      </node>
+      <node id="Viserys" label="Viserys">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.015644391307527945" />
+        </attvalues>
+      </node>
+      <node id="Worm" label="Worm">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Davos" label="Davos">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0.056064690026954175" />
+        </attvalues>
+      </node>
+      <node id="Cressen" label="Cressen">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Salladhor" label="Salladhor">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Eddard" label="Eddard">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.019341416465723616" />
+        </attvalues>
+      </node>
+      <node id="Eddison" label="Eddison">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Gilly" label="Gilly">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Qyburn" label="Qyburn">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Renly" label="Renly">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.004227926858198188" />
+        </attvalues>
+      </node>
+      <node id="Tommen" label="Tommen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0006984420191967362" />
+        </attvalues>
+      </node>
+      <node id="Janos" label="Janos">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.02355861153253357" />
+        </attvalues>
+      </node>
+      <node id="Bowen" label="Bowen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Kevan" label="Kevan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.019219915043818533" />
+        </attvalues>
+      </node>
+      <node id="Margaery" label="Margaery">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0010973522354777933" />
+        </attvalues>
+      </node>
+      <node id="Myrcella" label="Myrcella">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0006235971795124951" />
+        </attvalues>
+      </node>
+      <node id="Dalla" label="Dalla">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Melisandre" label="Melisandre">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.00860866854841803" />
+        </attvalues>
+      </node>
+      <node id="Orell" label="Orell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Qhorin" label="Qhorin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0002635519616651692" />
+        </attvalues>
+      </node>
+      <node id="Rattleshirt" label="Rattleshirt">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Styr" label="Styr">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Val" label="Val">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.005898334987101542" />
+        </attvalues>
+      </node>
+      <node id="Ygritte" label="Ygritte">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Jon Arryn" label="Jon Arryn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0005764583325230229" />
+        </attvalues>
+      </node>
+      <node id="Lancel" label="Lancel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Olenna" label="Olenna">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Marillion" label="Marillion">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Robert Arryn" label="Robert Arryn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Ellaria" label="Ellaria">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Mace" label="Mace">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Rickard" label="Rickard">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Ramsay" label="Ramsay">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Chataya" label="Chataya">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Shireen" label="Shireen">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Doran" label="Doran">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Walton" label="Walton">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="0.0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Aemon" target="Grenn" weight="5" />
+      <edge id="1" source="Aemon" target="Samwell" weight="31" />
+      <edge id="2" source="Aemon" target="Jon" weight="30" />
+      <edge id="3" source="Aemon" target="Robert" weight="4" />
+      <edge id="4" source="Aemon" target="Stannis" weight="4" />
+      <edge id="5" source="Grenn" target="Eddison" weight="8" />
+      <edge id="6" source="Grenn" target="Jon" weight="25" />
+      <edge id="7" source="Grenn" target="Samwell" weight="43" />
+      <edge id="8" source="Samwell" target="Bran" weight="11" />
+      <edge id="9" source="Samwell" target="Jojen" weight="11" />
+      <edge id="10" source="Samwell" target="Jon" weight="52" />
+      <edge id="11" source="Samwell" target="Meera" weight="7" />
+      <edge id="12" source="Samwell" target="Melisandre" weight="5" />
+      <edge id="13" source="Samwell" target="Bowen" weight="6" />
+      <edge id="14" source="Samwell" target="Craster" weight="34" />
+      <edge id="15" source="Samwell" target="Eddison" weight="12" />
+      <edge id="16" source="Samwell" target="Gilly" weight="36" />
+      <edge id="17" source="Samwell" target="Janos" weight="6" />
+      <edge id="18" source="Samwell" target="Mance" weight="10" />
+      <edge id="19" source="Samwell" target="Qhorin" weight="5" />
+      <edge id="20" source="Samwell" target="Stannis" weight="13" />
+      <edge id="21" source="Aerys" target="Jaime" weight="18" />
+      <edge id="22" source="Aerys" target="Robert" weight="6" />
+      <edge id="23" source="Aerys" target="Tyrion" weight="5" />
+      <edge id="24" source="Aerys" target="Tywin" weight="8" />
+      <edge id="25" source="Jaime" target="Arya" weight="11" />
+      <edge id="26" source="Jaime" target="Catelyn" weight="19" />
+      <edge id="27" source="Jaime" target="Cersei" weight="36" />
+      <edge id="28" source="Jaime" target="Eddard" weight="6" />
+      <edge id="29" source="Jaime" target="Balon" weight="6" />
+      <edge id="30" source="Jaime" target="Barristan" weight="4" />
+      <edge id="31" source="Jaime" target="Brienne" weight="88" />
+      <edge id="32" source="Jaime" target="Edmure" weight="5" />
+      <edge id="33" source="Jaime" target="Elia" weight="4" />
+      <edge id="34" source="Jaime" target="Gregor" weight="6" />
+      <edge id="35" source="Jaime" target="Joffrey" weight="15" />
+      <edge id="36" source="Jaime" target="Loras" weight="16" />
+      <edge id="37" source="Jaime" target="Meryn" weight="11" />
+      <edge id="38" source="Jaime" target="Qyburn" weight="11" />
+      <edge id="39" source="Jaime" target="Renly" weight="7" />
+      <edge id="40" source="Jaime" target="Robert" weight="17" />
+      <edge id="41" source="Jaime" target="Stannis" weight="5" />
+      <edge id="42" source="Jaime" target="Tommen" weight="8" />
+      <edge id="43" source="Jaime" target="Tyrion" weight="31" />
+      <edge id="44" source="Jaime" target="Robb" weight="15" />
+      <edge id="45" source="Jaime" target="Sansa" weight="10" />
+      <edge id="46" source="Jaime" target="Tywin" weight="13" />
+      <edge id="47" source="Jaime" target="Walton" weight="10" />
+      <edge id="48" source="Robert" target="Arya" weight="4" />
+      <edge id="49" source="Robert" target="Cersei" weight="16" />
+      <edge id="50" source="Robert" target="Daenerys" weight="5" />
+      <edge id="51" source="Robert" target="Eddard" weight="10" />
+      <edge id="52" source="Robert" target="Jon" weight="5" />
+      <edge id="53" source="Robert" target="Jon Arryn" weight="6" />
+      <edge id="54" source="Robert" target="Rhaegar" weight="6" />
+      <edge id="55" source="Robert" target="Barristan" weight="5" />
+      <edge id="56" source="Robert" target="Renly" weight="4" />
+      <edge id="57" source="Robert" target="Stannis" weight="5" />
+      <edge id="58" source="Robert" target="Thoros" weight="4" />
+      <edge id="59" source="Robert" target="Sandor" weight="6" />
+      <edge id="60" source="Robert" target="Sansa" weight="5" />
+      <edge id="61" source="Robert" target="Tyrion" weight="9" />
+      <edge id="62" source="Robert" target="Tywin" weight="11" />
+      <edge id="63" source="Tyrion" target="Arya" weight="5" />
+      <edge id="64" source="Tyrion" target="Catelyn" weight="5" />
+      <edge id="65" source="Tyrion" target="Cersei" weight="46" />
+      <edge id="66" source="Tyrion" target="Joffrey" weight="54" />
+      <edge id="67" source="Tyrion" target="Lysa" weight="5" />
+      <edge id="68" source="Tyrion" target="Myrcella" weight="4" />
+      <edge id="69" source="Tyrion" target="Robb" weight="12" />
+      <edge id="70" source="Tyrion" target="Sansa" weight="77" />
+      <edge id="71" source="Tyrion" target="Balon" weight="4" />
+      <edge id="72" source="Tyrion" target="Bronn" weight="31" />
+      <edge id="73" source="Tyrion" target="Chataya" weight="5" />
+      <edge id="74" source="Tyrion" target="Doran" weight="5" />
+      <edge id="75" source="Tyrion" target="Elia" weight="5" />
+      <edge id="76" source="Tyrion" target="Ellaria" weight="4" />
+      <edge id="77" source="Tyrion" target="Gregor" weight="22" />
+      <edge id="78" source="Tyrion" target="Ilyn" weight="5" />
+      <edge id="79" source="Tyrion" target="Janos" weight="5" />
+      <edge id="80" source="Tyrion" target="Kevan" weight="11" />
+      <edge id="81" source="Tyrion" target="Loras" weight="6" />
+      <edge id="82" source="Tyrion" target="Mace" weight="9" />
+      <edge id="83" source="Tyrion" target="Margaery" weight="7" />
+      <edge id="84" source="Tyrion" target="Meryn" weight="5" />
+      <edge id="85" source="Tyrion" target="Oberyn" weight="25" />
+      <edge id="86" source="Tyrion" target="Petyr" weight="12" />
+      <edge id="87" source="Tyrion" target="Podrick" weight="28" />
+      <edge id="88" source="Tyrion" target="Pycelle" weight="11" />
+      <edge id="89" source="Tyrion" target="Renly" weight="6" />
+      <edge id="90" source="Tyrion" target="Sandor" weight="4" />
+      <edge id="91" source="Tyrion" target="Shae" weight="21" />
+      <edge id="92" source="Tyrion" target="Stannis" weight="6" />
+      <edge id="93" source="Tyrion" target="Varys" weight="18" />
+      <edge id="94" source="Tyrion" target="Tywin" weight="39" />
+      <edge id="95" source="Tyrion" target="Viserys" weight="4" />
+      <edge id="96" source="Tywin" target="Lysa" weight="4" />
+      <edge id="97" source="Tywin" target="Robb" weight="12" />
+      <edge id="98" source="Tywin" target="Balon" weight="5" />
+      <edge id="99" source="Tywin" target="Brynden" weight="4" />
+      <edge id="100" source="Tywin" target="Cersei" weight="16" />
+      <edge id="101" source="Tywin" target="Gregor" weight="7" />
+      <edge id="102" source="Tywin" target="Joffrey" weight="13" />
+      <edge id="103" source="Tywin" target="Kevan" weight="14" />
+      <edge id="104" source="Tywin" target="Mace" weight="5" />
+      <edge id="105" source="Tywin" target="Oberyn" weight="6" />
+      <edge id="106" source="Tywin" target="Petyr" weight="4" />
+      <edge id="107" source="Tywin" target="Podrick" weight="5" />
+      <edge id="108" source="Tywin" target="Pycelle" weight="5" />
+      <edge id="109" source="Tywin" target="Stannis" weight="15" />
+      <edge id="110" source="Tywin" target="Tommen" weight="4" />
+      <edge id="111" source="Tywin" target="Val" weight="4" />
+      <edge id="112" source="Tywin" target="Varys" weight="6" />
+      <edge id="113" source="Tywin" target="Walder" weight="4" />
+      <edge id="114" source="Alliser" target="Mance" weight="5" />
+      <edge id="115" source="Alliser" target="Janos" weight="9" />
+      <edge id="116" source="Alliser" target="Jon" weight="15" />
+      <edge id="117" source="Mance" target="Janos" weight="4" />
+      <edge id="118" source="Mance" target="Jon" weight="69" />
+      <edge id="119" source="Mance" target="Craster" weight="11" />
+      <edge id="120" source="Mance" target="Dalla" weight="8" />
+      <edge id="121" source="Mance" target="Gilly" weight="7" />
+      <edge id="122" source="Mance" target="Qhorin" weight="10" />
+      <edge id="123" source="Mance" target="Rattleshirt" weight="9" />
+      <edge id="124" source="Mance" target="Styr" weight="7" />
+      <edge id="125" source="Mance" target="Val" weight="8" />
+      <edge id="126" source="Mance" target="Ygritte" weight="12" />
+      <edge id="127" source="Amory" target="Oberyn" weight="5" />
+      <edge id="128" source="Oberyn" target="Gregor" weight="24" />
+      <edge id="129" source="Oberyn" target="Joffrey" weight="4" />
+      <edge id="130" source="Oberyn" target="Ellaria" weight="6" />
+      <edge id="131" source="Oberyn" target="Mace" weight="6" />
+      <edge id="132" source="Arya" target="Anguy" weight="11" />
+      <edge id="133" source="Arya" target="Beric" weight="23" />
+      <edge id="134" source="Arya" target="Bran" weight="9" />
+      <edge id="135" source="Arya" target="Brynden" weight="6" />
+      <edge id="136" source="Arya" target="Cersei" weight="5" />
+      <edge id="137" source="Arya" target="Gendry" weight="43" />
+      <edge id="138" source="Arya" target="Gregor" weight="7" />
+      <edge id="139" source="Arya" target="Joffrey" weight="6" />
+      <edge id="140" source="Arya" target="Jon" weight="7" />
+      <edge id="141" source="Arya" target="Rickon" weight="8" />
+      <edge id="142" source="Arya" target="Roose" weight="5" />
+      <edge id="143" source="Arya" target="Sandor" weight="46" />
+      <edge id="144" source="Arya" target="Thoros" weight="18" />
+      <edge id="145" source="Arya" target="Eddard" weight="18" />
+      <edge id="146" source="Arya" target="Robb" weight="15" />
+      <edge id="147" source="Arya" target="Sansa" weight="22" />
+      <edge id="148" source="Anguy" target="Beric" weight="4" />
+      <edge id="149" source="Beric" target="Gendry" weight="4" />
+      <edge id="150" source="Beric" target="Thoros" weight="21" />
+      <edge id="151" source="Beric" target="Eddard" weight="8" />
+      <edge id="152" source="Beric" target="Sandor" weight="15" />
+      <edge id="153" source="Bran" target="Hodor" weight="96" />
+      <edge id="154" source="Bran" target="Jojen" weight="46" />
+      <edge id="155" source="Bran" target="Jon" weight="12" />
+      <edge id="156" source="Bran" target="Luwin" weight="4" />
+      <edge id="157" source="Bran" target="Meera" weight="54" />
+      <edge id="158" source="Bran" target="Nan" weight="14" />
+      <edge id="159" source="Bran" target="Rickon" weight="35" />
+      <edge id="160" source="Bran" target="Theon" weight="11" />
+      <edge id="161" source="Bran" target="Catelyn" weight="4" />
+      <edge id="162" source="Bran" target="Eddard" weight="15" />
+      <edge id="163" source="Bran" target="Robb" weight="23" />
+      <edge id="164" source="Bran" target="Sansa" weight="10" />
+      <edge id="165" source="Brynden" target="Lothar" weight="4" />
+      <edge id="166" source="Brynden" target="Walder" weight="5" />
+      <edge id="167" source="Brynden" target="Catelyn" weight="8" />
+      <edge id="168" source="Brynden" target="Edmure" weight="7" />
+      <edge id="169" source="Brynden" target="Rickard" weight="4" />
+      <edge id="170" source="Brynden" target="Robb" weight="17" />
+      <edge id="171" source="Cersei" target="Catelyn" weight="4" />
+      <edge id="172" source="Cersei" target="Brienne" weight="5" />
+      <edge id="173" source="Cersei" target="Bronn" weight="4" />
+      <edge id="174" source="Cersei" target="Elia" weight="4" />
+      <edge id="175" source="Cersei" target="Gregor" weight="6" />
+      <edge id="176" source="Cersei" target="Ilyn" weight="7" />
+      <edge id="177" source="Cersei" target="Joffrey" weight="23" />
+      <edge id="178" source="Cersei" target="Meryn" weight="10" />
+      <edge id="179" source="Cersei" target="Pycelle" weight="4" />
+      <edge id="180" source="Cersei" target="Sandor" weight="6" />
+      <edge id="181" source="Cersei" target="Shae" weight="4" />
+      <edge id="182" source="Cersei" target="Varys" weight="4" />
+      <edge id="183" source="Cersei" target="Eddard" weight="6" />
+      <edge id="184" source="Cersei" target="Lysa" weight="4" />
+      <edge id="185" source="Cersei" target="Sansa" weight="16" />
+      <edge id="186" source="Gendry" target="Thoros" weight="7" />
+      <edge id="187" source="Gendry" target="Sandor" weight="5" />
+      <edge id="188" source="Gregor" target="Bronn" weight="5" />
+      <edge id="189" source="Gregor" target="Elia" weight="9" />
+      <edge id="190" source="Gregor" target="Ilyn" weight="7" />
+      <edge id="191" source="Gregor" target="Meryn" weight="7" />
+      <edge id="192" source="Gregor" target="Sandor" weight="12" />
+      <edge id="193" source="Gregor" target="Joffrey" weight="5" />
+      <edge id="194" source="Joffrey" target="Ilyn" weight="4" />
+      <edge id="195" source="Joffrey" target="Kevan" weight="8" />
+      <edge id="196" source="Joffrey" target="Loras" weight="7" />
+      <edge id="197" source="Joffrey" target="Margaery" weight="28" />
+      <edge id="198" source="Joffrey" target="Meryn" weight="5" />
+      <edge id="199" source="Joffrey" target="Myrcella" weight="5" />
+      <edge id="200" source="Joffrey" target="Sandor" weight="14" />
+      <edge id="201" source="Joffrey" target="Stannis" weight="10" />
+      <edge id="202" source="Joffrey" target="Tommen" weight="9" />
+      <edge id="203" source="Joffrey" target="Robb" weight="10" />
+      <edge id="204" source="Joffrey" target="Sansa" weight="35" />
+      <edge id="205" source="Jon" target="Eddard" weight="8" />
+      <edge id="206" source="Jon" target="Craster" weight="7" />
+      <edge id="207" source="Jon" target="Dalla" weight="6" />
+      <edge id="208" source="Jon" target="Eddison" weight="4" />
+      <edge id="209" source="Jon" target="Gilly" weight="9" />
+      <edge id="210" source="Jon" target="Janos" weight="8" />
+      <edge id="211" source="Jon" target="Meera" weight="4" />
+      <edge id="212" source="Jon" target="Melisandre" weight="7" />
+      <edge id="213" source="Jon" target="Orell" weight="6" />
+      <edge id="214" source="Jon" target="Qhorin" weight="31" />
+      <edge id="215" source="Jon" target="Rattleshirt" weight="20" />
+      <edge id="216" source="Jon" target="Stannis" weight="9" />
+      <edge id="217" source="Jon" target="Styr" weight="16" />
+      <edge id="218" source="Jon" target="Theon" weight="8" />
+      <edge id="219" source="Jon" target="Val" weight="12" />
+      <edge id="220" source="Jon" target="Ygritte" weight="54" />
+      <edge id="221" source="Jon" target="Robb" weight="14" />
+      <edge id="222" source="Jon" target="Sansa" weight="4" />
+      <edge id="223" source="Rickon" target="Eddard" weight="8" />
+      <edge id="224" source="Rickon" target="Theon" weight="8" />
+      <edge id="225" source="Rickon" target="Robb" weight="15" />
+      <edge id="226" source="Rickon" target="Sansa" weight="7" />
+      <edge id="227" source="Roose" target="Catelyn" weight="4" />
+      <edge id="228" source="Roose" target="Robb" weight="4" />
+      <edge id="229" source="Roose" target="Brienne" weight="4" />
+      <edge id="230" source="Sandor" target="Eddard" weight="5" />
+      <edge id="231" source="Sandor" target="Ilyn" weight="4" />
+      <edge id="232" source="Sandor" target="Meryn" weight="4" />
+      <edge id="233" source="Sandor" target="Thoros" weight="10" />
+      <edge id="234" source="Sandor" target="Sansa" weight="6" />
+      <edge id="235" source="Balon" target="Loras" weight="4" />
+      <edge id="236" source="Balon" target="Robb" weight="6" />
+      <edge id="237" source="Balon" target="Stannis" weight="4" />
+      <edge id="238" source="Loras" target="Brienne" weight="7" />
+      <edge id="239" source="Loras" target="Margaery" weight="9" />
+      <edge id="240" source="Loras" target="Olenna" weight="5" />
+      <edge id="241" source="Loras" target="Renly" weight="8" />
+      <edge id="242" source="Loras" target="Sansa" weight="14" />
+      <edge id="243" source="Belwas" target="Barristan" weight="18" />
+      <edge id="244" source="Belwas" target="Illyrio" weight="10" />
+      <edge id="245" source="Belwas" target="Daenerys" weight="26" />
+      <edge id="246" source="Belwas" target="Jorah" weight="13" />
+      <edge id="247" source="Barristan" target="Daenerys" weight="20" />
+      <edge id="248" source="Barristan" target="Jorah" weight="11" />
+      <edge id="249" source="Barristan" target="Rhaegar" weight="5" />
+      <edge id="250" source="Hodor" target="Jojen" weight="35" />
+      <edge id="251" source="Hodor" target="Meera" weight="41" />
+      <edge id="252" source="Hodor" target="Robb" weight="5" />
+      <edge id="253" source="Jojen" target="Meera" weight="33" />
+      <edge id="254" source="Luwin" target="Nan" weight="4" />
+      <edge id="255" source="Theon" target="Robb" weight="11" />
+      <edge id="256" source="Brienne" target="Catelyn" weight="7" />
+      <edge id="257" source="Brienne" target="Robb" weight="6" />
+      <edge id="258" source="Brienne" target="Sansa" weight="5" />
+      <edge id="259" source="Bronn" target="Podrick" weight="19" />
+      <edge id="260" source="Podrick" target="Margaery" weight="4" />
+      <edge id="261" source="Podrick" target="Sansa" weight="8" />
+      <edge id="262" source="Lothar" target="Edmure" weight="4" />
+      <edge id="263" source="Lothar" target="Roslin" weight="4" />
+      <edge id="264" source="Lothar" target="Robb" weight="10" />
+      <edge id="265" source="Lothar" target="Walder" weight="12" />
+      <edge id="266" source="Walder" target="Catelyn" weight="19" />
+      <edge id="267" source="Walder" target="Edmure" weight="9" />
+      <edge id="268" source="Walder" target="Robb" weight="26" />
+      <edge id="269" source="Walder" target="Petyr" weight="6" />
+      <edge id="270" source="Walder" target="Roslin" weight="6" />
+      <edge id="271" source="Catelyn" target="Edmure" weight="16" />
+      <edge id="272" source="Catelyn" target="Hoster" weight="9" />
+      <edge id="273" source="Catelyn" target="Jeyne" weight="10" />
+      <edge id="274" source="Catelyn" target="Lysa" weight="8" />
+      <edge id="275" source="Catelyn" target="Petyr" weight="5" />
+      <edge id="276" source="Catelyn" target="Robb" weight="43" />
+      <edge id="277" source="Catelyn" target="Roslin" weight="6" />
+      <edge id="278" source="Catelyn" target="Sansa" weight="8" />
+      <edge id="279" source="Catelyn" target="Stannis" weight="4" />
+      <edge id="280" source="Catelyn" target="Eddard" weight="5" />
+      <edge id="281" source="Edmure" target="Roslin" weight="16" />
+      <edge id="282" source="Edmure" target="Hoster" weight="9" />
+      <edge id="283" source="Edmure" target="Robb" weight="32" />
+      <edge id="284" source="Hoster" target="Lysa" weight="6" />
+      <edge id="285" source="Jeyne" target="Robb" weight="18" />
+      <edge id="286" source="Lysa" target="Jon Arryn" weight="5" />
+      <edge id="287" source="Lysa" target="Marillion" weight="10" />
+      <edge id="288" source="Lysa" target="Petyr" weight="29" />
+      <edge id="289" source="Lysa" target="Robert Arryn" weight="9" />
+      <edge id="290" source="Lysa" target="Sansa" weight="28" />
+      <edge id="291" source="Petyr" target="Robb" weight="5" />
+      <edge id="292" source="Petyr" target="Sansa" weight="28" />
+      <edge id="293" source="Robb" target="Eddard" weight="13" />
+      <edge id="294" source="Robb" target="Ramsay" weight="4" />
+      <edge id="295" source="Robb" target="Rickard" weight="7" />
+      <edge id="296" source="Robb" target="Sansa" weight="15" />
+      <edge id="297" source="Robb" target="Stannis" weight="4" />
+      <edge id="298" source="Sansa" target="Eddard" weight="6" />
+      <edge id="299" source="Sansa" target="Kevan" weight="5" />
+      <edge id="300" source="Sansa" target="Margaery" weight="36" />
+      <edge id="301" source="Sansa" target="Marillion" weight="9" />
+      <edge id="302" source="Sansa" target="Myrcella" weight="4" />
+      <edge id="303" source="Sansa" target="Olenna" weight="7" />
+      <edge id="304" source="Sansa" target="Renly" weight="4" />
+      <edge id="305" source="Sansa" target="Robert Arryn" weight="6" />
+      <edge id="306" source="Sansa" target="Shae" weight="8" />
+      <edge id="307" source="Stannis" target="Davos" weight="32" />
+      <edge id="308" source="Stannis" target="Melisandre" weight="20" />
+      <edge id="309" source="Stannis" target="Renly" weight="15" />
+      <edge id="310" source="Elia" target="Rhaegar" weight="7" />
+      <edge id="311" source="Ilyn" target="Meryn" weight="5" />
+      <edge id="312" source="Pycelle" target="Varys" weight="4" />
+      <edge id="313" source="Shae" target="Chataya" weight="4" />
+      <edge id="314" source="Shae" target="Varys" weight="8" />
+      <edge id="315" source="Varys" target="Kevan" weight="5" />
+      <edge id="316" source="Varys" target="Renly" weight="4" />
+      <edge id="317" source="Craster" target="Karl" weight="6" />
+      <edge id="318" source="Craster" target="Gilly" weight="17" />
+      <edge id="319" source="Daario" target="Drogo" weight="4" />
+      <edge id="320" source="Daario" target="Irri" weight="5" />
+      <edge id="321" source="Daario" target="Daenerys" weight="14" />
+      <edge id="322" source="Daario" target="Jorah" weight="7" />
+      <edge id="323" source="Drogo" target="Daenerys" weight="18" />
+      <edge id="324" source="Drogo" target="Irri" weight="7" />
+      <edge id="325" source="Drogo" target="Jorah" weight="6" />
+      <edge id="326" source="Irri" target="Daenerys" weight="17" />
+      <edge id="327" source="Irri" target="Missandei" weight="4" />
+      <edge id="328" source="Daenerys" target="Aegon" weight="8" />
+      <edge id="329" source="Daenerys" target="Jorah" weight="47" />
+      <edge id="330" source="Daenerys" target="Kraznys" weight="10" />
+      <edge id="331" source="Daenerys" target="Missandei" weight="26" />
+      <edge id="332" source="Daenerys" target="Rakharo" weight="7" />
+      <edge id="333" source="Daenerys" target="Rhaegar" weight="12" />
+      <edge id="334" source="Daenerys" target="Viserys" weight="8" />
+      <edge id="335" source="Daenerys" target="Worm" weight="14" />
+      <edge id="336" source="Jorah" target="Rhaegar" weight="5" />
+      <edge id="337" source="Rhaegar" target="Viserys" weight="7" />
+      <edge id="338" source="Davos" target="Cressen" weight="4" />
+      <edge id="339" source="Davos" target="Salladhor" weight="16" />
+      <edge id="340" source="Davos" target="Melisandre" weight="30" />
+      <edge id="341" source="Davos" target="Shireen" weight="5" />
+      <edge id="342" source="Renly" target="Margaery" weight="7" />
+      <edge id="343" source="Tommen" target="Myrcella" weight="5" />
+      <edge id="344" source="Tommen" target="Margaery" weight="5" />
+      <edge id="345" source="Janos" target="Bowen" weight="5" />
+      <edge id="346" source="Kevan" target="Lancel" weight="7" />
+      <edge id="347" source="Dalla" target="Val" weight="7" />
+      <edge id="348" source="Qhorin" target="Rattleshirt" weight="6" />
+      <edge id="349" source="Qhorin" target="Ygritte" weight="7" />
+      <edge id="350" source="Rattleshirt" target="Ygritte" weight="9" />
+      <edge id="351" source="Marillion" target="Robert Arryn" weight="4" />
+    </edges>
+  </graph>
+</gexf>
