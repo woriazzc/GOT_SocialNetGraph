@@ -102,14 +102,12 @@ node.js: 一个框架
 安装java环境:
 
 ```{Bash}
-
 sudo apt-get install default-jdk
 ```
 
 将neo4j添加到repo内
 
 ```{Bash}
-
 wget -O - https://debian.neo4j.org/neotechnology.gpg.key | sudo apt-key add -
 echo 'deb https://debian.neo4j.org/repo stable/' | sudo tee -a /etc/apt/sources.list.d/neo4j.list
 sudo apt-get update
@@ -139,7 +137,7 @@ ssh -NL 7474:localhost:7474 user@address
     set dbms.security.auth_enabled = false
 ```
 
-使用tansfer.py脚本将原数据更改格式，提取出节点和关系csv文件，并将要读入的csv文件移动到neo4j的安装目录的import文件夹内。e.g.  /var/lib/neo4j/import
+使用tansfer.py脚本将原数据更改格式，提取出节点和关系csv文件，并将要读入的csv文件移动到neo4j的安装目录的import文件夹内。e.g.  /var/lib/neo4j/import
 
 #### 两种数据导入方式
 
@@ -300,11 +298,11 @@ open localhost:8888
 
 将该网络的所有节点和节点间关联边通过visJs插件进行可视化：
 
-![avatar](https://github.com/Kitiro/SocialNetGraphDemo/blob/master/img/all_nodes.png)
+![avatar](https://github.com/woriazzc/GOT_SocialNetGraph/blob/main/img/all_nodes.png)
 
 通过NetworkX的k_clique_communities函数进行该网络的社区发现。
 
-![avatar](https://github.com/Kitiro/SocialNetGraphDemo/blob/master/img/community_k%3D3.png)
+![avatar](https://github.com/woriazzc/GOT_SocialNetGraph/blob/main/img/community_k%3D3.png)
 
 clique_size为4时，该网络中共找到8个社区，通过不同颜色的节点标识出其属于的社区。对于不属于社区的节点标蓝色。
 **Note**:存在部分共享节点无法表示，所以导致网络图显示不太符合预期。
@@ -316,12 +314,12 @@ clique_size为4时，该网络中共找到8个社区，通过不同颜色的节�
 
 * 查询最短路径
 
- ![avatar](https://github.com/Kitiro/SocialNetGraphDemo/blob/master/img/shortest_path.png)
+ ![avatar](https://github.com/woriazzc/GOT_SocialNetGraph/blob/main/img/shortest_path.png)
 
 # NetworkX+Gephi可视化
 
 将以上部分社区发现得到的数据结果接入可视化工具Gephi中。
 
-参考 https://blog.csdn.net/weixin_44324814/article/details/108100159#comments_14355253。
+参考 https://blog.csdn.net/weixin_44324814/article/details/108100159
 
 ![avatar](https://github.com/woriazzc/GOT_SocialNetGraph/blob/main/GOT.png)

@@ -20,7 +20,7 @@ var readline = require('readline');
 var neo4j = require('neo4j-driver');
 var uri = "bolt://localhost:7687";
 var user = "neo4j";
-var password = "20001010zzc";
+var password = "neo4j";
 const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
 const session = driver.session();
 
